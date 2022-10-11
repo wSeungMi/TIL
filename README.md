@@ -1,6 +1,7 @@
-# 🦁 Today I Learned
+# ✍️ Today I Learned
 
 * 멋사에서 프론트엔드 공부하면서 알게되는 TIL 기록 
+* 개인적으로 추가 공부하면서 알게되는 TIL 기록
 
 
 ## 커밋 메세지 컨벤션
